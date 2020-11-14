@@ -249,8 +249,11 @@ void mode1() {
         cin >> matrix2.row;
     }
     if (matrix1.column != matrix2.row) {
+        cin.clear();
+        cin.sync();
         cout << "size donot match";
         mode1();
+        exit(0);
     }
     char g;
 
