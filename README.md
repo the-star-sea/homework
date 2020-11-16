@@ -61,7 +61,7 @@ O3针对循环有很多优化，但很危险，很多优化省略了语法检查
 ## Part 2 - Code
 https://github.com/the-star-sea/homework
 请使用提供的所有文件
-##Part 3 - Result & Verification
+## Part 3 - Result & Verification
 1.计算
 ![image.png](https://i.loli.net/2020/11/14/sD1gybc6EojxzRA.png)
 2.测试速度
@@ -69,7 +69,7 @@ https://github.com/the-star-sea/homework
 ![image.png](https://i.loli.net/2020/11/14/E6JMmTP7Rj4eN3H.png)
 3.输入错误
 ![image.png](https://i.loli.net/2020/11/15/MPsf8XqlT5uCbag.png)
-##Part 4 - Difficulties & Solutions
+## Part 4 - Difficulties & Solutions
 1. omp的使用
 
 一开始我是使用thread,不过发现omp比thread优化性能更好，因为能够动态优化，不过
