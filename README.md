@@ -1,8 +1,8 @@
-#CS205 C/ C++ Programming – Matrix
+# CS205 C/ C++ Programming – Matrix
 Name：张通
 
 SID: 11911611
-##Part 1 - Analysis
+## Part 1 - Analysis
 这次作业是写矩阵乘法，最简单的算法是使用三重循环直接计算
 
 类的声明：column,row,data
@@ -58,7 +58,7 @@ O3针对循环有很多优化，但很危险，很多优化省略了语法检查
 
 
 
-##Part 2 - Code
+## Part 2 - Code
 https://github.com/the-star-sea/homework
 请使用提供的所有文件
 ##Part 3 - Result & Verification
